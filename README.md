@@ -9,5 +9,5 @@ numpy<br>
 scikit-learn<br>
 # DataSet
 Used Kaggle Dataset of IMDB <br>
-[https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows](url)
+[https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset](url)
 
